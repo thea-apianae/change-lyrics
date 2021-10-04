@@ -1,2 +1,0 @@
-name=change lyrics v1.1
-execute=changelyrics.cmd
